@@ -33,7 +33,7 @@
     ```
 8. Create a Discord Bot in the Developer Portal ([Instructions here](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-the-developer-portal), but **NOTE: You do NOT need to make a new guild. Skip that step. Stop after you make your bot.**)
 
-9. Toggle the "Privileged Gateway Intents":
+9. Toggle the "Privileged Gateway Intents":!!!!!!
 
     ![](img/privileged_intents.png)
 
