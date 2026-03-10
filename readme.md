@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22503189&assignment_repo_type=AssignmentRepo)
 # Make a discord bot!
 
 ## Step 1: Setup
@@ -32,7 +33,7 @@
     ```
 8. Create a Discord Bot in the Developer Portal ([Instructions here](https://realpython.com/how-to-make-a-discord-bot-python/#how-to-make-a-discord-bot-in-the-developer-portal), but **NOTE: You do NOT need to make a new guild. Skip that step. Stop after you make your bot.**)
 
-9. Toggle the "Privileged Gateway Intents":
+9. Toggle the "Privileged Gateway Intents":!!!!!!
 
     ![](img/privileged_intents.png)
 
